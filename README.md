@@ -1,5 +1,5 @@
 # devops-netology
-git for learning
+Макаров Виктор
 
 first modified
 
